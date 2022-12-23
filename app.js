@@ -13,15 +13,11 @@ const {bot_tutorial_text}=require('./bot-text.js');
 
 require("dotenv").config();
 
-
-
 const data_updater={
   updating:false,
   to_update:'',
   url:''
 };
-
-
 
 
 const bot = new Telegraf(process.env.BOT_TOKEN);
