@@ -1,0 +1,17 @@
+{
+  "name": "popo18bot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.7.2",
+    "my-name-is-url": "^1.4.0",
+    "single-line-string": "^0.0.2",
+    "telegraf": "^4.10.0",
+    "to-text-string": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
