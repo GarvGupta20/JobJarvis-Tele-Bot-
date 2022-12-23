@@ -5,4 +5,6 @@ const GREETINGS=['Hello', 'hello', 'Hi', 'hola', 'heyo', 'mambo','heyo','heeeyye
 
 const BYE=['bye','bi','byebye','biee','bie','Bye','bieee'];
 
+const MORE=['some','not'];
+
 module.exports={GREETINGS,BYE};
