@@ -1,6 +1,6 @@
 Telegram Link:http://t.me/Job_Jarvis_bot
 Search : JobJarvis
-username: Job_Jarvis_bot
+username:Job_Jarvis_bot
 
 
 # A personal Organizer
